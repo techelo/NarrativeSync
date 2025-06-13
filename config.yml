@@ -1,0 +1,6 @@
+rss_feeds:
+  - https://rss.cnn.com/rss/cnn_topstories.rss
+  - https://feeds.foxnews.com/foxnews/latest
+  - https://www.npr.org/rss/rss.php?id=1001
+start_date: "2025-06-01T00:00"
+end_date: "2025-06-03T23:59"
